@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Franco Yampa",
+      "empresa": "Pepito Fc",
+      "email": "francocavs02@gmail.com",
+      "telefono": "3875803095",
+      "notas": "Cliente de buena fe paa",
+      "id": 1
+    },
+    {
+      "nombre": "Franco Santiago",
+      "empresa": "Pepito Fc2",
+      "email": "francocavs02@gmail.com",
+      "telefono": "3875803095",
+      "notas": "Cliente de buena fe paa",
+      "id": 2
+    },
+    {
+      "nombre": "Mariano",
+      "empresa": "diseñp",
+      "email": "francocavs02@gmail.com",
+      "telefono": "3875803095",
+      "notas": "dddd",
+      "id": 3
+    },
+    {
+      "nombre": "Tequila",
+      "empresa": "Pepito Fc",
+      "email": "fyampa@ucasal.edu.ar",
+      "telefono": "3875803095",
+      "notas": "Holaaaaaa",
+      "id": 4
+    }
+  ]
+}
